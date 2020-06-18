@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-01-15T08:18:51">
+<Step>
+<ID>1</ID>
+<Name>First jQuery Webpage</Name>
+<Des>I create this page to introduce the city Wuhan! I wish this could help people to know more about Wuhan - not just the virus. This page should contain a slideshow, jQuery effect, and a jQuery accordion or tab panel. </Des>
+<link>www</link>
+</Step>
+<Step>
+<ID>2</ID>
+<Name>Space Sale Webpage</Name>
+<Des>I create this page to sell three space program souvenirs, and all the information is read from an XML database! </Des>
+<link>www</link>
+</Step>
+<Step>
+<ID>3</ID>
+<Name>Final Proposal Webpage</Name>
+<Des>I created this webpage to define the scope and subject of my final project. I also identified two target groups for my two sites and stated the differences between the two sites. </Des>
+<link>www</link>
+<TarDate>03/06/2020</TarDate>
+</Step>
+<Step>
+<ID>4</ID>
+<Name>Progress Tracker Webpage</Name>
+<Des>I created the XML driven progress report for my final project. I will be able to use this kind of webpage to help staying my client and all other stakeholders informed of the progress being made on my project.</Des>
+<link>www</link>
+</Step>
+<Step>
+<ID>5</ID>
+<Name>Final Project - Site One!</Name>
+<Des>I create two pages to sale the same computer to two different group. The target group of site one are 3D gamers. </Des>
+<link>www.</link>
+</Step>
+<Step>
+<ID>6</ID>
+<Name>Final Project - Site Two!</Name>
+<Des>I create two pages to sale the same computer to two different group. The target group of site one are 3D artists.  </Des>
+<link>www</link>
+</Step>
+</dataroot>
